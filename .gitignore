@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__
+export.xlsx
+fitbit_data.pickle
+gather_keys_oauth2.py
+settings
