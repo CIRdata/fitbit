@@ -2,5 +2,6 @@
 __pycache__
 export.xlsx
 fitbit_data.pickle
+fitbit_data_clean.pickle
 gather_keys_oauth2.py
 settings
