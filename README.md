@@ -1,9 +1,9 @@
 
 #### 1 Purpose
-I've had the Fitbit Aria 2 Smart Scale for a few years now.  I've always felt the stock charts looked good, but weren't showing me what I wanted to see and that thier download functions were not that user friendly, so even pulling data into Excel to view wouldn't be that easy.
-So in this project I:
-1- create Charts that show the data in the way I want
-2- can download the data into excel
+I've had the Fitbit Aria 2 Smart Scale for a few years now, and I've always felt the stock charts looked good, but were not showing me what I wanted to see.
+So in this project I: 
+1- create Charts that show the data in the way I want 
+2- can download the data into Excel
 
 #### 2 Setup
 
